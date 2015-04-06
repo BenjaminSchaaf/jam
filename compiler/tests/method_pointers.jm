@@ -1,0 +1,9 @@
+#HelloWorld\n
+
+def reprint(one:String)
+    print(one)
+end
+
+var = reprint
+
+print(var("HelloWorld"))

@@ -1,0 +1,4 @@
+#My name is Benjamin\n
+
+name = "Benjamin"
+print("My name is #{name}\n")
